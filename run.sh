@@ -1,1 +1,1 @@
-ogr2ogr data.parquet "/viscurl/https://nrcsgeoservices.sc.egov.usda.gov/arcgis/rest/directories/arcgisoutput/ortho_imagery/cnmi_vivid_2022_30cm_ImageServer/_ags_5f04b7d6_6477_4b91_ab09_9a9e04974857.tif"
+ogr2ogr data.parquet "/vsicurl/https://nrcsgeoservices.sc.egov.usda.gov/arcgis/rest/services/ortho_imagery/cnmi_vivid_2022_30cm/ImageServer/exportImage?bbox=1.6123932494599998E7,1581387.793206189,1.6266877500628963E7,2340251.6242000014"
